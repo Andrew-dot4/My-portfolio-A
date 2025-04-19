@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Thanks watching this portfolio 
 
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+portfolio Name: Personal portfolio 
+Template URL: https://andrew-dot4.github.io/My-portfolio-A/index.html
+Author: Andrew Otieno 
